@@ -14,7 +14,7 @@ Es un template sencillo basado en un ecommerce, con capacidad de extender su uso
 ## Demo
 
 ```http
-  https://playa-garito.web.app/
+  [Playa Garito](https://playa-garito.web.app)
 ```
 
 ## Angular version
